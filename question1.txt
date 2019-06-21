@@ -1,0 +1,8 @@
+My favorite text editor is Atom because it has Git integration, it has a lot of packages that can be installed 
+with the built-in package manager, and it has auto-complete/suggestion. The git integration is a powerful feature because 
+you can update your branch within the editor without having to go through the terminal.
+The package-manager built-in feature is great because you can customize the editor to your liking 
+or to fit the scope of your project. All of the packages are available on Git, which makes this even better. 
+Lastly, the auto-complete/suggestion is something that a lot of popular editors have a version of but what
+makes Atom's superior is that it quickly recognizes when you changed the spelling of a variable that has been referenced 
+throughout your project and it does so intelligently. 
